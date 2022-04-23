@@ -8,16 +8,17 @@
 Nazarena Wambura.</br>
 [Github](https://github.com/nazarena254)
 
-----
 
 ## Technologies used
 * Python
 * Markdown
 
+
 ## Behaviour Driven Development
 * Given the user Follows the Procedure in the terminal after running the file.
 * When he/she enters cc, He/she will create a new contact
-* Then he/she can enter dc to diplay contact, sc to search contact or ex to exit
+* Then he/she can enter dc to diplay contact, sc to search contact or ex to exit.
+
 
 ## Installed packages
 * Install python extension in IDLE(VScode) to run python modules easily
@@ -28,6 +29,7 @@ Nazarena Wambura.</br>
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
+* create and cd to the directory where you want to have your project
 * git clone ```https://github.com/nazarena254/ContactPhonebook.git``` to have it on your machine.
 * code . or atom . based on the text editor you have.
 * work on it.
